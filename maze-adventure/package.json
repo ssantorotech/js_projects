@@ -1,0 +1,9 @@
+{
+  "name": "maze-adventure",
+  "version": "1.0.0",
+  "description": "A simple text-based maze adventure game",
+  "main": "script.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

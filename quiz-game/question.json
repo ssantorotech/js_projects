@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "Qual è la capitale del Giappone?",
+            "options": ["Pechino", "Tokyo", "Seul", "Bangkok"],
+            "answer": "Tokyo"
+        },
+        {
+            "question": "Qual è il pianeta più grande del Sistema Solare?",
+            "options": ["Terra", "Saturno", "Giove", "Nettuno"],
+            "answer": "Giove"
+        },
+        {
+            "question": "Chi ha scritto la Divina Commedia?",
+            "options": ["Petrarca", "Dante Alighieri", "Boccaccio", "Leopardi"],
+            "answer": "Dante Alighieri"
+        },
+        {
+            "question": "Quanti lati ha un esagono?",
+            "options": ["Cinque", "Sei", "Sette", "Otto"],
+            "answer": "Sei"
+        },
+        {
+            "question": "Qual è il simbolo chimico dell'oro?",
+            "options": ["Ag", "Fe", "Au", "Cu"],
+            "answer": "Au"
+        },
+        {
+            "question": "In quale anno è caduto il Muro di Berlino?",
+            "options": ["1985", "1987", "1989", "1991"],
+            "answer": "1989"
+        },
+        {
+            "question": "Qual è l'oceano più grande del mondo?",
+            "options": ["Atlantico", "Indiano", "Artico", "Pacifico"],
+            "answer": "Pacifico"
+        },
+        {
+            "question": "Quante ossa ha normalmente un adulto umano?",
+            "options": ["186", "206", "226", "246"],
+            "answer": "206"
+        },
+        {
+            "question": "Quale linguaggio viene eseguito nativamente nei browser web?",
+            "options": ["Python", "C++", "JavaScript", "Java"],
+            "answer": "JavaScript"
+        },
+        {
+            "question": "Qual è la velocità della luce nel vuoto, approssimativamente?",
+            "options": ["30.000 km/s", "150.000 km/s", "300.000 km/s", "500.000 km/s"],
+            "answer": "300.000 km/s"
+        }
+    ]
+}
